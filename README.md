@@ -1,5 +1,11 @@
 # fhs-install-v2ray
 
+### 安装v2ray
+```
+git clone git@github.com:doggeddog/fhs-install-v2ray.git
+bash install-release.sh -l v2ray-linux-64.zip
+```
+
 > 欲查阅以简体中文撰写的介绍，请访问：[README.zh-Hans-CN.md](README.zh-Hans-CN.md)
 
 > Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
